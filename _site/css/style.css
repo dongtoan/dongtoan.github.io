@@ -1326,6 +1326,7 @@ a:hover {
   -o-object-fit: cover;
   object-fit: cover;
   max-width: 100%;
+  height: 130%;
   position: absolute;
 }
 
