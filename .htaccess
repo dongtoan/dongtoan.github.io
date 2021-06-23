@@ -1,0 +1,5 @@
+### Redirect Directive Syntax
+# Redirect [status] [URL-path] URL
+
+### Example
+Redirect 301 "/index.html" "/"
