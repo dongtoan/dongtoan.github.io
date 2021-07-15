@@ -39,6 +39,11 @@
             </div>
         </header>
         <!-- Section-->
+        <header class="vienpn">
+        </header>
+        
+        <section class="vienpn">
+        </section>
         <section class="py-5">
             <div class="container px-4 px-lg-5 mt-5">
                 <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
@@ -251,15 +256,70 @@
         <script src="js/scripts.js"></script>
         <!-- Core theme JS-->
     <script>
-        $.getJSON("https://dongtoan.github.io/datalens.json", function(json) {
-            console.log(json); 
-        });
-        fetch("https://dongtoan.github.io/datalens.json")
+        fetch('https://dongtoan.github.io/datalens.json')
             .then(response => response.json())
-            .then(json => console.log(json));
-        $(document).ready(function(){
-           
-        });
+            .then(data => {
+                var renderData = data;
+                populateHeader(renderData);
+                    
+            });
+            const divCard = document.querySelector(section.vienpn);
+            function populateHeader(obj) {
+                console.log('hiihi' + obj);
+                for (let i = 0; i < obj.length; i++) {
+                    const sectionGroup = document.createElement('div.col.mb-5');
+                    const section = document.createElement('div.card.h-100');
+
+                    const imgLens = document.createElement('img');
+                    const carLensBody = document.createElement('div.card-body.p-4');
+                    const infoLens = document.createElement('div.text-center');
+
+                    const titleLens = document.createElement('h5.fw-bolder');
+                    const priceLens = document.createElement('a');
+                    const indexLens= document.createElement('div.badge.bg-dark.text-white.position-absolute')
+
+                    imgLens.textContent = obj[i].imgLensUrl;                             
+                    carLensBody.textContent = obj[i].nameLens;
+                    priceLens.textContent = obj[i].nameLens;
+                    indexLens.textContent = obj[i].indexLens;
+                    titleLens.textContent = obj[i].nameLens;
+                    
+                    console.log(imgLens + '-' + carLensBody+ '-'+ '-' + priceLens+ '-'+ '-' + indexLens+ '-')
+                    
+                    }
+                }
+            function showHeroes(obj) {
+                const heroes = obj['members'];
+
+                for (let i = 0; i < heroes.length; i++) {
+                    const myArticle = document.createElement('article');
+                    const myH2 = document.createElement('h2');
+                    const myPara1 = document.createElement('p');
+                    const myPara2 = document.createElement('p');
+                    const myPara3 = document.createElement('p');
+                    const myList = document.createElement('ul');
+
+                    myH2.textContent = heroes[i].name;
+                    myPara1.textContent = 'Secret identity: ' + heroes[i].secretIdentity;
+                    myPara2.textContent = 'Age: ' + heroes[i].age;
+                    myPara3.textContent = 'Superpowers:';
+
+                    const superPowers = heroes[i].powers;
+                    for (let j = 0; j < superPowers.length; j++) {
+                    const listItem = document.createElement('li');
+                    listItem.textContent = superPowers[j];
+                    myList.appendChild(listItem);
+                    }
+
+                    myArticle.appendChild(myH2);
+                    myArticle.appendChild(myPara1);
+                    myArticle.appendChild(myPara2);
+                    myArticle.appendChild(myPara3);
+                    myArticle.appendChild(myList);
+
+                    section.appendChild(myArticle);
+                }
+            }
     </script>
     </body>
 </html>
