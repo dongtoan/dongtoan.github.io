@@ -1,0 +1,30 @@
+[
+  {
+  
+  "idname" :"LE00001",
+  "indexLens": "1.56",
+  "TypeLens": "HC",
+  "nameLens" : "Satis",
+  "imgLensUrl" : "",
+  "description1" : "Cận Đơn 0.00 Đến -6.00",
+  "description2" : "Viễn Đơn +0.50 Đến +4.00",
+  "description3" : "Cận Loạn 0.00 Đến -6.00 CYL -0.50 Đến -2.00",
+  "description4" : "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+  "description5" : "Điều trị khúc xạ cho người bị cận thị viễn thị.",
+  "description6" : "Mài trước khi sủ dung"
+  },
+  {
+  
+    "idname" :"LE00001",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "nameLens" : "Satis",
+    "imgLensUrl" : "",
+    "description1" : "Cận Đơn 0.00 Đến -6.00",
+    "description2" : "Viễn Đơn +0.50 Đến +4.00",
+    "description3" : "Cận Loạn 0.00 Đến -6.00 CYL -0.50 Đến -2.00",
+    "description4" : "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5" : "Điều trị khúc xạ cho người bị cận thị viễn thị.",
+    "description6" : "Mài trước khi sủ dung"
+    },
+]
