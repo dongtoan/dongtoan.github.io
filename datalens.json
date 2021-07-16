@@ -65,7 +65,7 @@
     "TypeLens": "HMC",
     "priceLens": "0983433338",
     "nameLens": "EYELAND - VÁN DẦU",
-    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "imgLensUrl": "https://scontent.fpnh22-4.fna.fbcdn.net/v/t1.6435-0/c0.139.540.540a/s552x414/203052378_3025558194348240_6907111620865295835_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=da31f3&_nc_ohc=UNAIHPRZEaQAX9yr7T9&tn=TMjG78H5n9dNn5et&_nc_ht=scontent.fpnh22-4.fna&oh=63f96479d855c8c208dcd44899764230&oe=60F5594C",
     "description1": "Cận Đơn 0.00 Đến -8.00",
     "description2": "Viễn Đơn +0.50 Đến +4.00",
     "description3": "Cận Loạn 0.00 Đến -6.00 CYL -0.50 Đến -2.00",
@@ -80,7 +80,7 @@
     "TypeLens": "HMC",
     "priceLens": "0983433338",
     "nameLens": "BLUE BLOCK - ÁNH SÁNG XANH VÁN DẦU",
-    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "imgLensUrl": "https://scontent.fpnh22-3.fna.fbcdn.net/v/t1.6435-0/c0.139.540.540a/s552x414/207431803_3025558507681542_8862898947226062113_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=da31f3&_nc_ohc=8Gmlt4J-lTIAX9_Tm_R&_nc_ht=scontent.fpnh22-3.fna&oh=ec660e8e96f44f9ab006f2a352f0e31f&oe=60F6C272",
     "description1": "Cận Đơn 0.00 Đến -6.00",
     "description2": "Viễn Đơn +0.50 Đến +4.00",
     "description3": "Cận Loạn 0.00 Đến -6.00 CYL -0.50 Đến -2.00",
@@ -110,7 +110,7 @@
     "TypeLens": "HMC",
     "priceLens": "0983433338",
     "nameLens": "BLUE-BLOCK VÁN XANH LÁ",
-    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "imgLensUrl": "https://scontent.fpnh22-1.fna.fbcdn.net/v/t1.6435-0/c0.139.540.540a/s552x414/205899975_3025729147664478_5817652474327299939_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=da31f3&_nc_ohc=V2ZBgsng5oEAX8BjdZJ&tn=TMjG78H5n9dNn5et&_nc_ht=scontent.fpnh22-1.fna&oh=0bba1098c25ef34a7e21741b1a48e8ea&oe=60F53948",
     "description1": "Cận Đơn 0.00 Đến -10.00",
     "description2": "Viễn Đơn +0.50 Đến +5.00",
     "description3": "Cận Loạn 0.00 Đến -6.00 CYL -0.50 Đến -2.00",
@@ -181,16 +181,409 @@
   {
 
     "idname": "LE00013",
-    "indexLens": "1.61",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "PROGRESSIVE - ĐA TRÒNG CỰ LI TẦM NHÌN 12",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "TRÊN 0.00 ADD +1.00 ĐẾN +3.00",
+    "description2": "TRÊN +0.50 ĐẾN +2.00 ADD +1.25 ĐẾN +3.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  }, {
+
+    "idname": "LE00014",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "PROGRESSIVE - ĐA TRÒNG FREE-FORM TRÁNG CỨNG",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "TRÊN 0.00 ADD +1.00 ĐẾN +3.00",
+    "description2": "TRÊN +0.50 ADD +2.00 ĐẾN +3.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00015",
+    "indexLens": "1.56",
     "TypeLens": "HMC",
     "priceLens": "0983433338",
-    "nameLens": "ÁNH SÁNG XANH AS VÁN TÍM",
+    "nameLens": "PROGRESSIVE - ĐA TRÒNG FREE-FORM VÁN DẦU",
     "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
-    "description1": "Cận Đơn 0.00 Đến -10.00",
-    "description2": "Viễn Đơn +0.50 Đến +5.00",
-    "description3": "Cận Loạn 0.00 Đến -6.00 CYL -0.50 Đến -2.00",
+    "description1": "TRÊN 0.00 ADD +1.00 ĐẾN +3.00",
+    "description2": "TRÊN +0.50 ĐẾN +2.50 ADD +2.00 ĐẾN +3.00",
+    "description3": "",
     "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
-    "description5": "Điều trị khúc xạ cho người bị cận thị viễn thị.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  }, {
+
+    "idname": "LE00016",
+    "indexLens": "1.56",
+    "TypeLens": "HMC",
+    "priceLens": "0983433338",
+    "nameLens": "PROGRESSIVE - ĐA TRÒNG FREE-FORM VÁN DẦU + ÁNH SÁNG XANH",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "TRÊN 0.00 ADD +1.00 ĐẾN +3.00",
+    "description2": "TRÊN +0.50 ĐẾN +2.50 ADD +2.00 ĐẾN +3.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00017",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "PROGRESSIVE - ĐA TRÒNG CỰ LI TẦM NHÌN 12 - ĐỔI MÀU",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "TRÊN 0.00 ADD +1.00 ĐẾN +3.00",
+    "description2": "TRÊN +0.50 ĐẾN +2.00 ADD +1.25 ĐẾN +3.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+
+
+
+  {
+
+    "idname": "LE00018",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "PLATTOP - HAI TRÒNG TRÁNG CỨNG",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "TRÊN 0.00 ADD +1.00 ĐẾN +3.00",
+    "description2": "TRÊN +0.50 ĐẾN +2.50 ADD +1.25 ĐẾN +3.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00019",
+    "indexLens": "1.56",
+    "TypeLens": "HMC",
+    "priceLens": "0983433338",
+    "nameLens": "PLATTOP - HAI TRÒNG VÁN DẦU",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "TRÊN 0.00 ADD +1.00 ĐẾN +3.00",
+    "description2": "TRÊN +0.50 ĐẾN +2.00 ADD +1.50 ĐẾN +3.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+
+  {
+
+    "idname": "LE00020",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "PLATTOP - HAI TRÒNG TRÁNG CỨNG - ĐỔI MÀU",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "TRÊN 0.00 ADD +1.00 ĐẾN +3.00",
+    "description2": "TRÊN +0.50 ĐẾN +2.00 ADD +1.50 ĐẾN +3.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00021",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "PLATTOP - HAI TRÒNG THUỶ TINH DF - ĐỔI MÀU",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "TRÊN 0.00 ADD +1.00 ĐẾN +3.00",
+    "description2": "TRÊN +0.50 ĐẾN +2.00 ADD +1.50 ĐẾN +3.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+
+  {
+
+    "idname": "LE00022",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "PHOTO GRAY - ĐỔI MÀU TRÁNG CỨNG - KHÓI",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "Cận Đơn 0.00 Đến -8.00 LOẠN PLANO LÊN TỚI -4.00",
+    "description2": "Viễn Đơn +0.50 Đến +5.00",
+    "description3": "Cận Loạn 0.00 Đến -8.00 CYL -0.50 Đến -2.00",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00023",
+    "indexLens": "1.56",
+    "TypeLens": "HMC",
+    "priceLens": "0983433338",
+    "nameLens": "PHOTO GRAY - ĐỔI MÀU VÁN DẦU VÁN XANH LÁ - KHÓI",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "Cận Đơn 0.00 Đến -6.00",
+    "description2": "Viễn Đơn +0.50 Đến +5.00",
+    "description3": "Cận Loạn 0.00 Đến -8.00 CYL -0.50 Đến -2.00",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+
+  {
+
+    "idname": "LE00024",
+    "indexLens": "1.56",
+    "TypeLens": "HMC",
+    "priceLens": "0983433338",
+    "nameLens": "PHOTO GRAY - ĐỔI MÀU VÁN DẦU VÁN XANH LAM - KHÓI",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "Cận Đơn 0.00 Đến -6.00",
+    "description2": "Viễn Đơn +0.50 Đến +4.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00025",
+    "indexLens": "1.56",
+    "TypeLens": "HMC",
+    "priceLens": "0983433338",
+    "nameLens": "PHOTO GRAY - ĐỔI MÀU VÁN DẦU - TRÀ",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "CHỈ CÓ 0.00",
+    "description2": "CHỈ CÓ 0.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00026",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "PHOTO GRAY - ĐỔI MÀU TRÁNG CỨNG - TRÀ",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "CHỈ CÓ 0.00",
+    "description2": "CHỈ CÓ 0.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00027",
+    "indexLens": "1.56",
+    "TypeLens": "HMC",
+    "priceLens": "0983433338",
+    "nameLens": "PHOTO GRAY - ĐỔI MÀU VÁN DẦU + ÁNH SÁNG XANH - KHÓI",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "Cận Đơn 0.00 Đến -4.00",
+    "description2": "Viễn Đơn +0.50 Đến +3.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00028",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "KHOAN ỐC - POLY SENKO ",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-0/c0.139.540.540a/s552x414/209823788_3025727394331320_7082733664530535517_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=da31f3&_nc_ohc=1RsaTZHS3NkAX--jKqk&tn=TMjG78H5n9dNn5et&_nc_ht=scontent.fpnh22-2.fna&oh=b8ad473792a200576cd447907d1ad3eb&oe=60F58F66",
+    "description1": "Cận Đơn 0.00 Đến -5.00",
+    "description2": "Viễn Đơn +0.50 Đến +3.50",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00029",
+    "indexLens": "1.56",
+    "TypeLens": "HMC",
+    "priceLens": "0983433338",
+    "nameLens": "KHOAN ỐC - POLY SENKO ",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-0/c0.139.540.540a/s552x414/209823788_3025727394331320_7082733664530535517_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=da31f3&_nc_ohc=1RsaTZHS3NkAX--jKqk&tn=TMjG78H5n9dNn5et&_nc_ht=scontent.fpnh22-2.fna&oh=b8ad473792a200576cd447907d1ad3eb&oe=60F58F66",
+    "description1": "Cận Đơn 0.00 Đến -5.00",
+    "description2": "Viễn Đơn +0.50 Đến +3.50",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00030",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "KHOAN ỐC - PROTECT YOUR EYES ",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "Cận Đơn 0.00 Đến -5.00",
+    "description2": "Viễn Đơn +0.50 Đến +3.50",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00031",
+    "indexLens": "1.56",
+    "TypeLens": "HMC",
+    "priceLens": "0983433338",
+    "nameLens": "ĐỔI MÀU THUỶ TINH SKY - VÁN DẦU - KHÓI",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "Chỉ có 0.00",
+    "description2": "",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00032",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "ĐỔI MÀU THUỶ TINH SKY - TRÁNG CỨNG - KHÓI",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "CHỈ CÓ 0.00",
+    "description2": "CHỈ CÓ 0.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },{
+
+    "idname": "LE00033",
+    "indexLens": "1.56",
+    "TypeLens": "HMC",
+    "priceLens": "0983433338",
+    "nameLens": "ĐỔI MÀU THUỶ TINH SKY - VÁN DẦU - TRÀ",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "Chỉ có 0.00",
+    "description2": "",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00034",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "ĐỔI MÀU THUỶ TINH SKY - TRÁNG CỨNG - TRÀ",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "CHỈ CÓ 0.00",
+    "description2": "CHỈ CÓ 0.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00035",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "RAYBAN THUỶ TINH - G15",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "Chỉ có 0.00",
+    "description2": "",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00036",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "RAYBAN THUỶ TINH - TRÀ",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "CHỈ CÓ 0.00",
+    "description2": "CHỈ CÓ 0.00",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa Plastic Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00037",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "OR MÀU SẴN ",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "Chỉ có 0.00 PHI 70",
+    "description2": "ĐEN 1 MÀU - KHÓI 2 MÀU - TRÀ 1 MÀU - TRÀ 2 MÀU",
+    "description3": "XANH RAYBAN - XANH RÊU 2 MÀU",
+    "description4": "Chất Liệu Là Nhựa mềm POLARIZED Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00038",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "POLARIZED TRÒNG PHIM MỀM",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "Chỉ có 0.00 KÍCH THƯỚC 70X70",
+    "description2": "ĐEN 1 MÀU - TRÀ 1 MÀU",
+    "description3": "XANH RAYBAN  - XUYÊN ĐÊM VÀNG - XUYÊN ĐÊM XANH DƯƠNG",
+    "description4": "Chất Liệu Là Nhựa mềm POLARIZED Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
+    "description6": "Mài trước khi sủ dung"
+  },
+  {
+
+    "idname": "LE00038",
+    "indexLens": "1.56",
+    "TypeLens": "HC",
+    "priceLens": "0983433338",
+    "nameLens": "POLARIZED TRÒNG PHIM ĐỔI MÀU",
+    "imgLensUrl": "https://scontent.fpnh22-2.fna.fbcdn.net/v/t1.6435-9/217563340_3031240877113305_8799422402461521645_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=10HeC5nxGvEAX84MsOt&tn=wq9xm7oMSAeEwv14&_nc_ht=scontent.fpnh22-2.fna&oh=b72989af884cced7d05b6e7b456b851b&oe=60F45C4A",
+    "description1": "Chỉ có 0.00 KÍCH THƯỚC 70X70",
+    "description2": "ĐỔI MÀU KHÓI",
+    "description3": "",
+    "description4": "Chất Liệu Là Nhựa mềm POLARIZED Cao Cấp và lớp phủ hạn chế chống trày.",
+    "description5": "Điều trị khúc xạ cho người bị viễn thị.",
     "description6": "Mài trước khi sủ dung"
   }
 ]
