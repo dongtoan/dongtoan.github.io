@@ -18,12 +18,16 @@
     />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fuggles&family=Montserrat:ital,wght@0,100;0,200;0,500;1,900&display=swap" rel="stylesheet">
   </head>
   <body>
     <!-- Navigation-->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light">
       <div class="container px-4 px-lg-5">
-        <a class="navbar-brand" href="#!">Toàn Sg</a>
+        <a class="navbar-brand" href="#!"><span>T</span>OÀN  S-G</a>
+        <!-- <span class="phone">0983433338</span> -->
         <button
           class="navbar-toggler"
           type="button"
@@ -35,32 +39,25 @@
         >
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#!"
-                >Sản Phẩm</a
-              >
-            </li>
-            <li class="nav-item"><a class="nav-link" href="#!">Đặt Hàng</a></li>
-          </ul>
-        </div>
       </div>
     </nav>
     <!-- Header-->
-    <header class="bg-dark py-5">
+    <header class="bg-customize py-5">
       <div class="container px-4 px-lg-5 my-5">
         <div class="text-center text-white">
-          <h1 class="display-4 fw-bolder">Tròng Kính Cận Viễn Cận Loạn....</h1>
-          <p class="lead fw-normal text-white-50 mb-0">
-            Chuyên Cung Cấp tròng cận viễn loạn hai tròng đa tròng đổi màu
-            plastic thuỷ tinh v.v...
-          </p>
+      
+          
         </div>
       </div>
     </header>
     <!-- Section-->
-    <header class="vienpn"></header>
+    <header class="vienpn">
+      <h1 class="display-4 fw-bolder text-center text-uppercase">Tròng Kính Cận Viễn Cận Loạn</h1>
+      <p class="lead fw-normal mb-0 text-center">
+        Chuyên Cung Cấp tròng cận viễn loạn hai tròng đa tròng đổi màu
+        plastic thuỷ tinh v.v...
+      </p>
+    </header>
 
    
     <section class="py-5">
@@ -105,13 +102,12 @@
 					imgLens.className = 'card-img-top';
 
           const carLensBody = document.createElement("div");					
-					carLensBody.className = 'card-body p-4';
+					carLensBody.className = 'card-body card-body-customize';
 
           const infoLens = document.createElement("div");
-					infoLens.className = 'text-center';
+					infoLens.className = 'text-customize-title';
 
 				
-
           const titleLens = document.createElement("h5");
 					titleLens.className = 'fw-bolder text-uppercase';
 
@@ -123,10 +119,10 @@
 					indexLens.style.right = "0.5em";					
 
 					const footerInfo =  document.createElement("div")
-					footerInfo.className = 'card-footer p-4 pt-0 border-top-0 bg-transparent';
+					footerInfo.className = 'card-footer pt-0 border-top-0 bg-transparent';
 
 					const footerGroup = document.createElement("div");
-					footerGroup.className = 'text-center-';
+					footerGroup.className = '';
 
           imgLens.src = obj[i].imgLensUrl;
 					
@@ -138,27 +134,27 @@
           titleLens.textContent = obj[i].TypeLens + ' - '+obj[i].nameLens;
 
 					const chitiet = document.createElement("p")
-					chitiet.className = 'card-text';
+					chitiet.className = 'card-text card-text-customize-sph';
 					chitiet.textContent = obj[i].description1;
 
 					const chitiet2 = document.createElement("p")
-					chitiet2.className = 'card-text';
+					chitiet2.className = 'card-text card-text-customize-sph';
 					chitiet2.textContent = obj[i].description2;
 
 					const chitiet3 = document.createElement("p")
-					chitiet3.className = 'card-text';
+					chitiet3.className = 'card-text card-text-customize-cyl';
 					chitiet3.textContent = obj[i].description3;
 
 					const chitiet4 = document.createElement("p")
-					chitiet4.className = 'card-text';
+					chitiet4.className = 'card-text card-text-customize-cyl';
 					chitiet4.textContent = obj[i].description4;
 
 					const chitiettitle = document.createElement("p")
-					chitiettitle.className = 'card-text';
+					chitiettitle.className = 'card-text text-uppercase card-text-customize-title';
 					chitiettitle.textContent = 'Thông Số Độ Cầu';
 
 					const chitiettitle2 = document.createElement("p")
-					chitiettitle2.className = 'card-text';
+					chitiettitle2.className = 'card-text text-uppercase card-text-customize-title';
 					chitiettitle2.textContent = 'Thông Tin Chung';
 					
 
@@ -170,7 +166,7 @@
 				
 					
 					infoLens.appendChild(titleLens)
-					infoLens.appendChild(priceLens)
+					// infoLens.appendChild(priceLens)
 									
 					footerInfo.appendChild(footerGroup);		
 					footerGroup.appendChild(chitiettitle);

@@ -55,6 +55,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
+  font-size: 100%;
   color: #212529;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
@@ -3969,15 +3970,31 @@ textarea.form-control-lg {
   display: flex;
   flex-wrap: inherit;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 .navbar-brand {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
-  margin-right: 1rem;
   font-size: 1.25rem;
   text-decoration: none;
   white-space: nowrap;
+}
+.navbar-brand{
+  font-family: 'Fuggles', cursive;
+  font-size: 2em;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.navbar-brand span{
+  font-size: 2.3em;
+}
+.navbar-brand span.phone{
+  font-size: 0.56em;
+  position: absolute;
+  right: 0;
+  bottom: 1.5em;
+  font-family: 'Montserrat';
 }
 .navbar-nav {
   display: flex;
@@ -4276,8 +4293,32 @@ textarea.form-control-lg {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  /* border: 1px solid rgba(0, 0, 0, 0.125); */
   border-radius: 0.25rem;
+}
+.card:hover {
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 20px;
+  transition: all 200ms;
+  cursor: pointer;
+}
+.card .card-text-customize-sph,
+.card .card-text-customize-cyl{
+  color: #2d2d2d;
+  font-family: Montserrat,Arial,Helvetica,sans-serif;
+  margin: 0 0 .28571rem;
+}
+.text-customize-title{
+  font-size: 1.1em;
+  color: #2d2d2d;
+}
+.text-customize-title h5{
+  margin: 0;
+}
+.card .card-text-customize-title{
+  color: #989898;
+  font-family: Montserrat,Arial,Helvetica,sans-serif;
+  margin: .58571rem 0 .58571rem;
+  font-size: .85em;
 }
 .card > hr {
   margin-right: 0;
@@ -4306,7 +4347,9 @@ textarea.form-control-lg {
   flex: 1 1 auto;
   padding: 1rem 1rem;
 }
-
+.card-body-customize{
+  padding-bottom: 0;
+}
 .card-title {
   margin-bottom: 0.5rem;
 }
@@ -4317,7 +4360,19 @@ textarea.form-control-lg {
 }
 
 .card-text:last-child {
-  margin-bottom: 0;
+  
+}
+.vienpn h1{
+  font-size: 1.8em;
+  font-weight: bolder !important;
+  color: #2d2d2d;
+  font-family: Montserrat,Arial,Helvetica,sans-serif;
+  margin: 1.5em 0 0.5em 0em;
+}
+.vienpn p{
+  font-size: 1em;
+  color: #989898;
+  font-family: Montserrat,Arial,Helvetica,sans-serif;
 }
 
 .card-link:hover {
@@ -7458,7 +7513,13 @@ textarea.form-control-lg {
      -moz-user-select: all !important;
           user-select: all !important;
 }
-
+.bg-customize{
+  min-height: 350px;
+  background-image: url(../img/slider-1.jpg);
+  background-size: contain;
+  /* background-repeat: no-repeat; */
+  background-position: center;
+}
 .user-select-auto {
   -webkit-user-select: auto !important;
      -moz-user-select: auto !important;
