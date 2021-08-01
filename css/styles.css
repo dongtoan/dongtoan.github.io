@@ -6680,9 +6680,9 @@ textarea.form-control-lg {
 }
 
 .h-100 .card-img-top{
-  height: 420px;
+  height: 480px;
   object-fit: cover;
-  object-position: center;
+  object-position: top;
 }
 .h-auto {
   height: auto !important;
