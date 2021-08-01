@@ -6679,6 +6679,11 @@ textarea.form-control-lg {
   height: 100% !important;
 }
 
+.h-100 img.card-img{
+  height: 420px;
+  object-fit: cover;
+  object-position: center;
+}
 .h-auto {
   height: auto !important;
 }
