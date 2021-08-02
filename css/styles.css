@@ -10916,3 +10916,21 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.social-vienpn ul li i {
+  font-size: 3em;
+}
+.social-vienpn ul li {
+  list-style: none;
+}
+.social-vienpn .bi-eyeglasses{
+ color: var(--bs-dark);
+}
+.social-vienpn .bi-whatsapp{
+  color: var( --bs-red)
+ }
+ .social-vienpn {
+  position: fixed;
+  height: 200px;
+  width: 100px;
+  top: 65%;
+ }
